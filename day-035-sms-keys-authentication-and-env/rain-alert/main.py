@@ -6,8 +6,8 @@ from twilio.rest import Client
 
 # Get your own OpenWeather API by creating a free account at "https://openweathermap.org/"
 # API Keys are required to make API Requests to the OpenWeather API.
+# os.environ[key] allows you to get the value of the environment variable i.e., key
 API_KEY = os.environ['API_KEY']
-# API_KEY = "7b26c92417fd3678d52eac12dc870222"
 MY_LAT = 19.194550
 MY_LON = 73.190819
 is_raining = False
