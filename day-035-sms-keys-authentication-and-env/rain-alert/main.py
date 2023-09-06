@@ -1,18 +1,20 @@
 import requests
+import os
 
 # the twilio library allows us to send SMS.
 from twilio.rest import Client
 
 # Get your own OpenWeather API by creating a free account at "https://openweathermap.org/"
 # API Keys are required to make API Requests to the OpenWeather API.
-API_KEY = "get_it_from_above_website"
+API_KEY = os.environ['API_KEY']
+# API_KEY = "7b26c92417fd3678d52eac12dc870222"
 MY_LAT = 19.194550
 MY_LON = 73.190819
 is_raining = False
 
 # You need account_sid and auth_token to send SMS using the twilio library.
-account_sid = "get_it_from_twilio"
-auth_token = "get_it_from_twilio"
+account_sid = "AC4f183a5a3527be369675e890c6f08666"
+auth_token = os.environ['AUTH_KEY']
 
 rain_param = {
     'lat': MY_LAT,
@@ -40,7 +42,7 @@ for hourly_index in range(0, 12):
             .create(
             body="It's going to rain today. Remember to bring an ☔.",
             from_='+13344686603',
-            to='+1234567890'
+            to= '+' + os.environ['MY_CONTACT']
         )
 
         print(message.status)
