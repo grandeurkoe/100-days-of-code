@@ -40,7 +40,7 @@ for hourly_index in range(0, 12):
             .create(
             body="It's going to rain today. Remember to bring an ☔.",
             from_='+13344686603',
-            to='+919930895622'
+            to='+30895622'
         )
 
         print(message.status)
