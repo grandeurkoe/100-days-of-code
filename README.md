@@ -11,6 +11,14 @@ Each project has been built from scratch with mininum to no assistance.<br/><br/
 | 2     | [Tip Calculator](day-002-understanding-data-types-and-how-to-manipulate-strings/tip-calculator)       | 7     | [Hangman](day-007-hangman/hangman)       | 12     | [Number Guessing Game](day-012-scope-and-number-guessing-game/number-guessing-game)       |            
 | 3     | [Treasure Island](day-003-control-flow-and-logical-operators/treasure-island)       | 8     | [Caesar Cipher](day-008-function-parameters-and-caesar-cipher/caesar-cipher)       | 13     | Debugging       |              
 | 4     | [Rock Paper Scissors](day-004-randomisation-and-python-lists/rock-paper-scissors)       | 9     | [Secret Auction](day-009-dictionaries-nesting-and-the-secret-auction/secret-auction)       | 14     | [Higher Lower Game](day-014-higher-lower-game-project/higher-lower-game)       |           
-| 5     | [Password Generator](day-005-python-loops/password-generator)       | 10     | [Calculator](day-010-functions-with-outputs/calculator)       | 15     | [The Coffee Machine](day-015-the-coffee-machine/the-coffee-machine)       |                  
+| 5     | [Password Generator](day-005-python-loops/password-generator)       | 10     | [Calculator](day-010-functions-with-outputs/calculator)       | 15     | [The Coffee Machine](day-015-the-coffee-machine/the-coffee-machine)       |
+
+| Day | Project  | Day | Project  | Day | Project  |
+|     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |
+| 16     | [The Coffee Machine (OOP)](day-016-object-oriented-programming/the-coffee-machine-oop-version)       | 21     | [The Snake Game](day-020-and-021-build-the-snake-game/the-snake-game)       |
+| 17     | [The Quiz Game](day-017-the-quiz-game-project-and-the-benefits-of-oop/the-quiz-game)       |
+| 18     | [The Hirst Painting](day-018-turtle-and-the-gui/the-hirst-painting-project)       |
+| 19     | [Etch a Sketch App](day-019-etch-a-sketch-and-the-turtle-race/etch-a-sketch-app)       |
+| 20     | [The Snake Game](day-020-and-021-build-the-snake-game/the-snake-game)       |
 
 </div>
