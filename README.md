@@ -18,4 +18,14 @@ Each project has been built from scratch with mininum to no assistance.<br/><br/
  | 9     | [Secret Auction](day-009-dictionaries-nesting-and-the-secret-auction/secret-auction)       | 19     | [Etch a Sketch App](day-019-etch-a-sketch-and-the-turtle-race/etch-a-sketch-app)       | 29     | [The Password Manager App](day-029-password-manager-gui-app-with-tkinter/password-manager-gui-app)       |
  | 10     | [Calculator](day-010-functions-with-outputs/calculator)       | 20     | [The Snake Game](day-020-and-021-build-the-snake-game/the-snake-game)       | 30     | [The Password Manager App](day-029-password-manager-gui-app-with-tkinter/password-manager-gui-app)       |
 
+| Day | Project  |
+|     :---:      |     :---:      |
+| 31   | [Flash Card App](day-031-flash-card-app-capstone-project/flash-card-app-capstone-project)     |
+| 32   | [Automated Birthday Wisher](day-032-send-email-and-manage-dates/automated-birthday-wisher)     |
+| 33   | [Kanye Quotes App](day-033-api-endpoints-and-parameters-iss-overhead-notifier/kanye-quotes-app)     |
+| 34   | [Quizzler App](day-034-creating-a-gui-quiz-app/quizzler-app)     |
+| 35   | [Rain Alert](day-035-sms-keys-authentication-and-env/rain-alert)     |
+| 36   | [Stock Trading News Alert](day-036-stock-trading-news-alert-project/stock-trading-news-alert)     |
+| 37   | [Habit Tracker](day-037-advanced-authentication-and-post-put-delete-requests/habit-tracker)     |
+
 </div>
