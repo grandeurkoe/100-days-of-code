@@ -16,9 +16,9 @@ Each project has been built from scratch with mininum to no assistance.<br/><br/
 | Day | Project  | Day | Project  | Day | Project  |
 |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |
 | 16     | [The Coffee Machine (OOP)](day-016-object-oriented-programming/the-coffee-machine-oop-version)       | 21     | [The Snake Game](day-020-and-021-build-the-snake-game/the-snake-game)       |
-| 17     | [The Quiz Game](day-017-the-quiz-game-project-and-the-benefits-of-oop/the-quiz-game)       |
-| 18     | [The Hirst Painting](day-018-turtle-and-the-gui/the-hirst-painting-project)       |
-| 19     | [Etch a Sketch App](day-019-etch-a-sketch-and-the-turtle-race/etch-a-sketch-app)       |
-| 20     | [The Snake Game](day-020-and-021-build-the-snake-game/the-snake-game)       |
+| 17     | [The Quiz Game](day-017-the-quiz-game-project-and-the-benefits-of-oop/the-quiz-game)       | 22     | [The Pong Game](day-022-build-pong/the-pong-game)       |
+| 18     | [The Hirst Painting](day-018-turtle-and-the-gui/the-hirst-painting-project)       | 23     | [The Turtle Crossing Game](day-023-the-turtle-crossing-capstone-project/the-turtle-crossing-game)       |
+| 19     | [Etch a Sketch App](day-019-etch-a-sketch-and-the-turtle-race/etch-a-sketch-app)       | 24     | [Mail Merge](day-024-files-directories-and-paths/mail-merge-project)       |
+| 20     | [The Snake Game](day-020-and-021-build-the-snake-game/the-snake-game)       | 25     | [U.S. States Game](day-025-working-with-csv-data-and-the-pandas-library/us-states-game)       |
 
 </div>
