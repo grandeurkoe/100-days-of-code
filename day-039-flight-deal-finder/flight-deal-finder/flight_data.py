@@ -9,5 +9,5 @@ class FlightData:
             if flight[flight_index]['flightPrice'] < cheapest_flight:
                 cheapest_flight = flight[flight_index]['flightPrice']
                 cheapest_flight_index = flight_index
-
+        print(flight[cheapest_flight_index])
         return flight[cheapest_flight_index]

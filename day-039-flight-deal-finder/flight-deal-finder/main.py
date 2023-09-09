@@ -22,4 +22,4 @@ cheapest_flights = flight_search.get_cheapest_flight(departure_iata_code, iata_c
 
 best_offer = flight_structure_data.get_best_offer(cheapest_flights)
 
-flight_notification.sms_best_offer(best_offer)
+# flight_notification.sms_best_offer(best_offer)

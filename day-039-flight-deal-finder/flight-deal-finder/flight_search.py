@@ -62,12 +62,14 @@ class FlightSearch:
             cheapest_flight_from = ""
             cheapest_flight_to = ""
             cheapest_destination_city = cities[each_destination]
+            cheapest_flight_date_to = date_from
 
             for each_flight in all_flights:
                 if cheapest_flight_cost > each_flight['price']:
                     cheapest_flight_cost = each_flight['price']
                     cheapest_flight_from = each_flight['flyFrom']
                     cheapest_flight_to = each_flight['flyTo']
+                    cheapest_flight_date_to = each_flight['local_departure']
 
             cheapest_flights = {
                 'flyFrom': cheapest_flight_from,
@@ -76,7 +78,7 @@ class FlightSearch:
                 'destinationCity': cheapest_destination_city,
                 'flightPrice': cheapest_flight_cost,
                 'dateFrom': date_from,
-                'dateTo': date_to,
+                'dateTo': cheapest_flight_date_to.split('T')[0],
             }
             flights.append(cheapest_flights)
 
