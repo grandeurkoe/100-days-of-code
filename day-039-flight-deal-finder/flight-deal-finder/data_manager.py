@@ -2,6 +2,7 @@ import os
 
 import requests
 
+# Important Sheety API key, Sheety username are stored as environment variables.
 SHEETY_API = os.environ["SHEETY_AUTH_BEARER"]
 SHEETY_USERNAME = os.environ["SHEETY_USERNAME"]
 SHEETY_ENDPOINT = f"https://api.sheety.co/{SHEETY_USERNAME}/flightDeals/prices"
@@ -14,7 +15,7 @@ class DataManager:
     }
 
     def get_column(self, column_name):
-        """Retrieves column data given column_name"""
+        """Retrieves column_name data from Google Sheet. Returns column_name data."""
 
         column = []
 
@@ -28,6 +29,7 @@ class DataManager:
         return column
 
     def update_column(self, column, column_name):
+        """Updates column_name data in the Google Sheet."""
 
         object_id = 2
         for each_entry in range(len(column)):

@@ -2,6 +2,7 @@ import os
 import requests
 from datetime import datetime
 
+# Important Tequila API is stored as environment variables.
 FLIGHT_SEARCH_API = os.environ["FLIGHT_API_KEY"]
 FLIGHT_LOCATION_ENDPOINT = "https://api.tequila.kiwi.com/locations/query"
 FLIGHT_SEARCH_ENDPOINT = "https://api.tequila.kiwi.com/v2/search"
@@ -18,7 +19,7 @@ class FlightSearch:
     }
 
     def get_iata_code(self, locations, location_type):
-
+        """Searches IATA code for locations based on location_type. Returns the IATA code"""
         iata_code = []
 
         for each_entry in locations:
@@ -32,7 +33,8 @@ class FlightSearch:
         return iata_code
 
     def get_cheapest_flight(self, current_city_iata, destination_cities_iata, lowest_prices, departure_city, cities):
-
+        """Gets cheapest flight from the departure city to every destination city in Google Sheet. Returns cheapest
+        flight data."""
         new_lowest_prices = []
         flights = []
 

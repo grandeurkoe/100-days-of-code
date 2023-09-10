@@ -1,7 +1,7 @@
 
 class FlightData:
-    # This class is responsible for structuring the flight data.
     def get_best_offer(self, flight):
+        """Gets the best offer from the cheapest flight data. Returns the best offer."""
         cheapest_flight = flight[0]['flightPrice']
         cheapest_flight_index = 0
 
