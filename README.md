@@ -27,6 +27,8 @@ Each project has been built from scratch with mininum to no assistance.<br/><br/
 | 35   | [Rain Alert](day-035-sms-keys-authentication-and-env/rain-alert)     |
 | 36   | [Stock Trading News Alert](day-036-stock-trading-news-alert-project/stock-trading-news-alert)     |
 | 37   | [Habit Tracker](day-037-advanced-authentication-and-post-put-delete-requests/habit-tracker)     |
+| 38   | [Workout Tracker](day-038-workout-tracking-using-google-sheets/workout-tracking-using-google-sheets)     |
+| 39   | [Flight Deal Finder](day-039-flight-deal-finder/flight-deal-finder)     |
 
 </div>
 
