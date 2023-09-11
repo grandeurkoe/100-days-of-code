@@ -38,6 +38,7 @@ class NotificationManager:
                 to='+' + os.environ['MY_CONTACT'],
             )
         print(message.status)
+        print("Success! SMS sent.")
 
     def email_best_offer(self, best_offer):
         """Sends an email with the best offer available."""
@@ -54,3 +55,4 @@ class NotificationManager:
                 else:
                     message = f"Dear {each_customer['firstName']}, \nOnly £{best_offer['flightPrice']} from {best_offer['departureCity']}-{best_offer['flyFrom']} to {best_offer['destinationCity']}-{best_offer['flyTo']}, from {best_offer['dateFrom']} to {best_offer['dateTo']}.\nFlight has {best_offer['stopOver']} stop over, via {best_offer['viaCity']} City.\nClick the link below:\n{best_offer['deepLink']}"
                     notification_connection.sendmail(from_addr=MY_EMAIL, to_addrs=each_customer['email'], msg=f"Subject:Low price alert!\n\n{message}".encode("utf-8"))
+        print("Success! Email sent.")
