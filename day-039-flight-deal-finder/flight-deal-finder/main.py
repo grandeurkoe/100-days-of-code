@@ -11,20 +11,49 @@ flight_sheet_data = DataManager()
 flight_search = FlightSearch()
 flight_structure_data = FlightData()
 flight_notification = NotificationManager()
+is_looping = True
 
-sheety_data = flight_sheet_data.get_sheety_data()
+while is_looping:
+    print('''
 
-for each_entry in sheety_data:
-    CITIES.append(each_entry['city'])
-    LOWEST_PRICES.append(each_entry['lowestPrice'])
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░░░░▒▒░▒▓▓▓▒░▒▒▒░░▒▒▓▒░▓▓░▒▒░░░░▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░▒▒▒▒▒░▒▓▓▓░░▒▒░▒▒░░▓░░▓▓░░▒▒░░▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░▒▒▒▓▒░▒▓▓▓░░▒░░▒▓▒▓▓░░▒▒░░▓▓░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░░░░▓▒░▒▓▓▓░░▒░░▒░░░▓░░░░░░▓▓░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░▒▓▓▓▒░▒▓▓▓░░▒░░▒▓░░▓░░▓▓░░▓▓░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░▒▓▓▓▒░░░░▒░░▒▒░░░░▒▓░░▓▓░░▓▓░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░░░░▒░░▓░░▒▓░▒▒░░░░▒▓░░░░░▒░░░░▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░▒▓▓▓░░▓░░░▓░▒▒░▒▓░░▓░░▓▓▓▒░▒▓░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░░░▒▓░░▓░░░▒░▒▒░▒▓░░▓░░░░▒▒░░░░▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░▒▒▒▓░░▓░░▒░░▒▒░▒▓░░▓░░▒▒▒▒░▒░░▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░▒▓▓▓░░▓░░▓░░▒▒░▒▒░▒▓░░▒▒▒▒░▒▒░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▓▓▓▒▒▓▒▒▓▒▒▒▒▒▒▒▒▓▓▒▒▒▒▒▒▒▒▓▒▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+    ''')
 
-iata_codes = flight_search.get_iata_code(CITIES, 'city')
-departure_iata_code = flight_search.get_iata_code([DEPARTURE_CITY], 'city')
+    print(f"Menu\n1. Get cheapest flight deals.\n2. Send SMS.\n3. Exit")
+    menu_select = int(input("Pick a choice: "))
 
-# flight_data.update_column(iata_codes, 'iataCode')
+    if menu_select == 1:
+        sheety_data = flight_sheet_data.get_sheety_data()
+        for each_entry in sheety_data:
+            CITIES.append(each_entry['city'])
+            LOWEST_PRICES.append(each_entry['lowestPrice'])
 
-cheapest_flights = flight_search.get_cheapest_flight(departure_iata_code, iata_codes, LOWEST_PRICES, DEPARTURE_CITY, CITIES)
+        iata_codes = flight_search.get_iata_code(CITIES, 'city')
+        departure_iata_code = flight_search.get_iata_code([DEPARTURE_CITY], 'city')
 
-best_offer = flight_structure_data.get_best_offer(cheapest_flights)
+        # This was used to set IATA codes for cities in Sheety.
+        # flight_sheet_data.update_column(iata_codes, 'iataCode')
 
-# flight_notification.sms_best_offer(best_offer)
+        cheapest_flights = flight_search.get_cheapest_flight(departure_iata_code, iata_codes, LOWEST_PRICES,
+                                                             DEPARTURE_CITY, CITIES)
+        best_offer = flight_structure_data.get_best_offer(cheapest_flights)
+        print(f"Cheapest Flight Deal: {best_offer}")
+    elif menu_select == 2:
+        flight_notification.sms_best_offer(best_offer)
+    elif menu_select == 3:
+        is_looping = False
+    else:
+        print("Invalid choice.")
