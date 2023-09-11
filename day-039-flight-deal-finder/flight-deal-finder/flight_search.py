@@ -53,35 +53,42 @@ class FlightSearch:
                 "fly_to": destination_cities_iata[each_destination],
                 "date_from": date_from,
                 "date_to": date_to,
+                "max_stopovers": "0",
+                "sort": "price",
+                # "limit": "5",
             }
 
-            flight_search_response = requests.get(url=FLIGHT_SEARCH_ENDPOINT, params=flight_search_param,
-                                                  headers=self.headers)
-            flight_search_response.raise_for_status()
-            all_flights = flight_search_response.json()['data']
+            try:
+                flight_search_response = requests.get(url=FLIGHT_SEARCH_ENDPOINT, params=flight_search_param,
+                                                      headers=self.headers)
+                flight_search_response.raise_for_status()
+                all_flights = flight_search_response.json()['data']
+            except requests.exceptions.HTTPError:
+                pass
+            finally:
+                cheapest_flight_cost = lowest_prices[each_destination]
+                cheapest_flight_from = ""
+                cheapest_flight_to = ""
+                cheapest_destination_city = cities[each_destination]
+                cheapest_flight_date_to = date_from
 
-            cheapest_flight_cost = lowest_prices[each_destination]
-            cheapest_flight_from = ""
-            cheapest_flight_to = ""
-            cheapest_destination_city = cities[each_destination]
-            cheapest_flight_date_to = date_from
-
-            for each_flight in all_flights:
-                if cheapest_flight_cost > each_flight['price']:
-                    cheapest_flight_cost = each_flight['price']
-                    cheapest_flight_from = each_flight['flyFrom']
-                    cheapest_flight_to = each_flight['flyTo']
-                    cheapest_flight_date_to = each_flight['local_departure']
-
-            cheapest_flights = {
-                'flyFrom': cheapest_flight_from,
-                'flyTo': cheapest_flight_to,
-                'departureCity': departure_city,
-                'destinationCity': cheapest_destination_city,
-                'flightPrice': cheapest_flight_cost,
-                'dateFrom': date_from,
-                'dateTo': cheapest_flight_date_to.split('T')[0],
-            }
-            flights.append(cheapest_flights)
-
+                try:
+                    if cheapest_flight_cost > all_flights[0]['price']:
+                        cheapest_flight_cost = all_flights[0]['price']
+                        cheapest_flight_from = all_flights[0]['flyFrom']
+                        cheapest_flight_to = all_flights[0]['flyTo']
+                        cheapest_flight_date_to = all_flights[0]['local_departure']
+                except IndexError:
+                    pass
+                finally:
+                    cheapest_flights = {
+                        'flyFrom': cheapest_flight_from,
+                        'flyTo': cheapest_flight_to,
+                        'departureCity': departure_city,
+                        'destinationCity': cheapest_destination_city,
+                        'flightPrice': cheapest_flight_cost,
+                        'dateFrom': date_from,
+                        'dateTo': cheapest_flight_date_to.split('T')[0],
+                    }
+                    flights.append(cheapest_flights)
         return flights
