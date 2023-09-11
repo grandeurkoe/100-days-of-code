@@ -10,10 +10,17 @@ class NotificationManager:
     def sms_best_offer(self, best_offer):
         """Sends an SMS with the best offer available."""
         client = Client(account_sid, auth_token)
-        message = client.messages.create(
-            body=f"Low price alert! Only £{best_offer['flightPrice']} from {best_offer['departureCity']}-{best_offer['flyFrom']} to {best_offer['destinationCity']}-{best_offer['flyTo']}, from {best_offer['dateFrom']} to {best_offer['dateTo']}.",
-            from_='+13344686603',
-            to='+' + os.environ['MY_CONTACT'],
-        )
-
+        if best_offer['viaCity'] == "":
+            message = client.messages.create(
+                body=f"Low price alert! Only £{best_offer['flightPrice']} from {best_offer['departureCity']}-{best_offer['flyFrom']} to {best_offer['destinationCity']}-{best_offer['flyTo']}, from {best_offer['dateFrom']} to {best_offer['dateTo']}.",
+                from_='+13344686603',
+                to='+' + os.environ['MY_CONTACT'],
+            )
+        else:
+            message = client.messages.create(
+                body=f"Low price alert! Only £{best_offer['flightPrice']} from {best_offer['departureCity']}-{best_offer['flyFrom']} to {best_offer['destinationCity']}-{best_offer['flyTo']}, from {best_offer['dateFrom']} to {best_offer['dateTo']}.\n"
+                     f"Flight has {best_offer['stopOver']} stop over, via {best_offer['viaCity']} City.",
+                from_='+13344686603',
+                to='+' + os.environ['MY_CONTACT'],
+            )
         print(message.status)
