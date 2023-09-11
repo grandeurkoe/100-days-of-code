@@ -29,6 +29,7 @@ Each project has been built from scratch with mininum to no assistance.<br/><br/
 | 37   | [Habit Tracker](day-037-advanced-authentication-and-post-put-delete-requests/habit-tracker)     |
 | 38   | [Workout Tracker](day-038-workout-tracking-using-google-sheets/workout-tracking-using-google-sheets)     |
 | 39   | [Flight Deal Finder](day-039-flight-deal-finder/flight-deal-finder)     |
+| 40   | [Flight Club](day-040-flight-club/flight-club)     |
 
 </div>
 
