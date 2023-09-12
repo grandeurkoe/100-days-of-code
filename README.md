@@ -18,9 +18,9 @@ Each project has been built from scratch with mininum to no assistance.<br/><br/
  | 9     | [Secret Auction](day-009-dictionaries-nesting-and-the-secret-auction/secret-auction)       | 19     | [Etch a Sketch App](day-019-etch-a-sketch-and-the-turtle-race/etch-a-sketch-app)       | 29     | [The Password Manager App](day-029-password-manager-gui-app-with-tkinter/password-manager-gui-app)       |
  | 10     | [Calculator](day-010-functions-with-outputs/calculator)       | 20     | [The Snake Game](day-020-and-021-build-the-snake-game/the-snake-game)       | 30     | [The Password Manager App](day-029-password-manager-gui-app-with-tkinter/password-manager-gui-app)       |
 
-| Day | Project  |
-|     :---:      |     :---:      |
-| 31   | [Flash Card App](day-031-flash-card-app-capstone-project/flash-card-app-capstone-project)     |
+| Day | Project  | Day | Project  |
+|     :---:      |     :---:      |     :---:      |     :---:      |
+| 31   | [Flash Card App](day-031-flash-card-app-capstone-project/flash-card-app-capstone-project)     | 41   | [Movie Ranking](day-041-introduction-to-html/movie-ranking)     |
 | 32   | [Automated Birthday Wisher](day-032-send-email-and-manage-dates/automated-birthday-wisher)     |
 | 33   | [Kanye Quotes App](day-033-api-endpoints-and-parameters-iss-overhead-notifier/kanye-quotes-app)     |
 | 34   | [Quizzler App](day-034-creating-a-gui-quiz-app/quizzler-app)     |
