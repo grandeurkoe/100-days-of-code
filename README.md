@@ -24,7 +24,7 @@ Each project has been built from scratch with mininum to no assistance.<br/><br/
 | 32   | [Automated Birthday Wisher](day-032-send-email-and-manage-dates/automated-birthday-wisher)     | 42   | [Birthday Invite](day-042-intermediate-html/birthday-invite)     |
 | 33   | [Kanye Quotes App](day-033-api-endpoints-and-parameters-iss-overhead-notifier/kanye-quotes-app)     | 43   | [Color Vocabulary](day-043-introduction-to-css/color-vocab)     |
 | 34   | [Quizzler App](day-034-creating-a-gui-quiz-app/quizzler-app)     | 44   | [Motivation Meme](day-044-intermediate-css/motivation-meme)     |
-| 35   | [Rain Alert](day-035-sms-keys-authentication-and-env/rain-alert)     |
+| 35   | [Rain Alert](day-035-sms-keys-authentication-and-env/rain-alert)     | 45   | [Top 100 Movies to Watch](day-045-web-scraping-with-beautiful-soup/top-100-movies-to-watch)     |
 | 36   | [Stock Trading News Alert](day-036-stock-trading-news-alert-project/stock-trading-news-alert)     |
 | 37   | [Habit Tracker](day-037-advanced-authentication-and-post-put-delete-requests/habit-tracker)     |
 | 38   | [Workout Tracker](day-038-workout-tracking-using-google-sheets/workout-tracking-using-google-sheets)     |
