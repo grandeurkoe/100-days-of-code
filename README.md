@@ -26,7 +26,7 @@ Each project has been built from scratch with mininum to no assistance.<br/><br/
 | 34   | [Quizzler App](day-034-creating-a-gui-quiz-app/quizzler-app)     | 44   | [Motivation Meme](day-044-intermediate-css/motivation-meme)     |
 | 35   | [Rain Alert](day-035-sms-keys-authentication-and-env/rain-alert)     | 45   | [Top 100 Movies to Watch](day-045-web-scraping-with-beautiful-soup/top-100-movies-to-watch)     |
 | 36   | [Stock Trading News Alert](day-036-stock-trading-news-alert-project/stock-trading-news-alert)     | 46   | [Musical Time Machine](day-046-musical-time-machine/musical-time-machine)     |
-| 37   | [Habit Tracker](day-037-advanced-authentication-and-post-put-delete-requests/habit-tracker)     |
+| 37   | [Habit Tracker](day-037-advanced-authentication-and-post-put-delete-requests/habit-tracker)     | 47   | [Automated Amazon Price Tracker](day-047-automated-amazon-price-tracker/automated-amazon-price-tracker)     |
 | 38   | [Workout Tracker](day-038-workout-tracking-using-google-sheets/workout-tracking-using-google-sheets)     |
 | 39   | [Flight Deal Finder](day-039-flight-deal-finder/flight-deal-finder)     |
 | 40   | [Flight Club](day-040-flight-club/flight-club)     |
