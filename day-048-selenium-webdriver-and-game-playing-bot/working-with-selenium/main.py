@@ -41,11 +41,30 @@ chrome_driver.get(url="https://www.python.org/")
 # print(pydocs_link.text)
 
 # XPath is the method of locating an HTML element by Path structure.
-submit_website_bug = chrome_driver.find_element(By.XPATH, value="/html/body/div/footer/div[2]/div/ul/li[3]/a")
-print(submit_website_bug.text)
+# submit_website_bug = chrome_driver.find_element(By.XPATH, value="/html/body/div/footer/div[2]/div/ul/li[3]/a")
+# print(submit_website_bug.text)
 
+# CHALLENGE - Extract Upcoming Events.
+events = {}
+
+all_event_dates = chrome_driver.find_elements(By.TAG_NAME,
+                                              value="time")
+upcoming_event_dates = all_event_dates[5:10:]
+
+all_event_names = chrome_driver.find_elements(By.CSS_SELECTOR,
+                                              value=".shrubbery .menu li a")
+upcoming_event_names = all_event_names[5:10:]
+
+for event_index in range(len(upcoming_event_dates)):
+    each_event = {
+        'time': f"2023-{upcoming_event_dates[event_index].text}",
+        'name': upcoming_event_names[event_index].text
+    }
+    events[event_index] = each_event
+
+print(events)
 # To close a tab from the Chrome browser.
-# chrome_driver.close()
+chrome_driver.close()
 
 # To close the Chrome browser including all tabs.
 chrome_driver.quit()
