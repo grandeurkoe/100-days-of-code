@@ -41,4 +41,4 @@ while True:
 cookie_seconds = chrome_driver.find_element(By.ID, value="cps")
 print(cookie_seconds.text)
 
-chrome_drive.quit()
+chrome_driver.quit()
