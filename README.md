@@ -59,6 +59,7 @@ sudo snap install pycharm-community --classic
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
+![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=Selenium)
 ![Replit](https://img.shields.io/badge/-Replit-black?style=flat-square&logo=Replit)
 ![Pycharm](https://img.shields.io/badge/-Pycharm-black?style=flat-square&logo=Pycharm)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&logo=visualstudiocode)
