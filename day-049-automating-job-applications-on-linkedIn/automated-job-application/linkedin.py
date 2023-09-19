@@ -44,7 +44,7 @@ class LinkedIn:
         time.sleep(5)
 
     def save_job_posting(self):
-        """Saves all job listings."""
+        """Saves all job listings and follows each company whose job is listed."""
         section = self.chrome_driver.find_element(By.CLASS_NAME, "scaffold-layout__list")
         scroll_origin = ScrollOrigin.from_element(section)
         ActionChains(self.chrome_driver).scroll_from_origin(scroll_origin, 0, 4000).perform()
@@ -58,6 +58,17 @@ class LinkedIn:
                 time.sleep(3)
                 self.chrome_driver.find_element(By.CSS_SELECTOR, value="button.jobs-save-button").click()
                 time.sleep(3)
+
+                follow_section = self.chrome_driver.find_element(By.CLASS_NAME, value="scaffold-layout__detail")
+                scroll_origin = ScrollOrigin.from_element(follow_section)
+                ActionChains(self.chrome_driver).scroll_from_origin(scroll_origin, 0, 12000).perform()
+                time.sleep(3)
+                try:
+                    self.chrome_driver.find_element(By.CLASS_NAME, value="follow").click()
+                    time.sleep(3)
+                except NoSuchElementException:
+                    pass
+
             except NoSuchElementException:
                 pass
 
