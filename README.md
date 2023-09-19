@@ -28,7 +28,7 @@ Each project has been built from scratch with mininum to no assistance.<br/><br/
 | 36   | [Stock Trading News Alert](day-036-stock-trading-news-alert-project/stock-trading-news-alert)     | 46   | [Musical Time Machine](day-046-musical-time-machine/musical-time-machine)     |
 | 37   | [Habit Tracker](day-037-advanced-authentication-and-post-put-delete-requests/habit-tracker)     | 47   | [Automated Amazon Price Tracker](day-047-automated-amazon-price-tracker/automated-amazon-price-tracker)     |
 | 38   | [Workout Tracker](day-038-workout-tracking-using-google-sheets/workout-tracking-using-google-sheets)     | 48   | [Automated Cookie Clicker](day-048-selenium-webdriver-and-game-playing-bot/automated-cookie-clicker)     |
-| 39   | [Flight Deal Finder](day-039-flight-deal-finder/flight-deal-finder)     |
+| 39   | [Flight Deal Finder](day-039-flight-deal-finder/flight-deal-finder)     | 49   | [Automated LinkedIn Application](day-049-automating-job-applications-on-linkedIn/automated-job-application)     |
 | 40   | [Flight Club](day-040-flight-club/flight-club)     |
 
 </div>
