@@ -89,4 +89,3 @@ class Tinder:
                 keep_swiping = False
 
         self.chrome_driver.quit()
-# //*[@id="u1820263459"]/div/div[1]/div/main/div[1]/div/div/div[1]/div[1]/div/div[4]/div/div[2]/button
