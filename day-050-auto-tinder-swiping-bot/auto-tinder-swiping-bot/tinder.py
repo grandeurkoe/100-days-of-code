@@ -3,6 +3,8 @@ import os
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.expected_conditions import NoSuchElementException
+from selenium.common.exceptions import ElementNotInteractableException
+from selenium.common.exceptions import ElementClickInterceptedException
 
 # Tinder username and password stored as environment variables.
 TINDER_USERNAME = os.environ['TINDER_USERNAME']
@@ -61,7 +63,30 @@ class Tinder:
 
     def swipe_nope(self):
         """Swipes Not like on Tinder profiles."""
-        for _ in range(10):
-            time.sleep(5)
-            self.chrome_driver.find_element(By.XPATH, '//*[@id="u1820263459"]/div/div[1]/div/main/div[1]/div/div/div['
-                                                      '1]/div[1]/div/div[3]/div/div[2]/button').click()
+        keep_swiping = True
+        swipe_counter = 0
+        # SWIPES NOPE A 100 TIMES.
+        while keep_swiping:
+            try:
+                if swipe_counter == 0:
+                    self.chrome_driver.find_element(By.XPATH, '//*[@id="u1820263459"]/div/div[1]/div/main/div['
+                                                              '1]/div/div/div['
+                                                              '1]/div[1]/div/div[3]/div/div[2]/button').click()
+                    swipe_counter += 1
+                else:
+                    self.chrome_driver.find_element(By.XPATH, '//*[@id="u1820263459"]/div/div[1]/div/main/div['
+                                                              '1]/div/div/div['
+                                                              '1]/div[1]/div/div[4]/div/div[2]/button').click()
+                    swipe_counter += 1
+            except ElementNotInteractableException:
+                time.sleep(5)
+            except NoSuchElementException:
+                time.sleep(8)
+            except ElementClickInterceptedException:
+                time.sleep(5)
+
+            if swipe_counter >= 100:
+                keep_swiping = False
+
+        self.chrome_driver.quit()
+# //*[@id="u1820263459"]/div/div[1]/div/main/div[1]/div/div/div[1]/div[1]/div/div[4]/div/div[2]/button
