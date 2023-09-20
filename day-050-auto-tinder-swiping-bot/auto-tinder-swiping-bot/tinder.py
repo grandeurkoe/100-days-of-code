@@ -26,7 +26,7 @@ class Tinder:
         self.chrome_driver.find_element(By.LINK_TEXT, "Log in").click()
         time.sleep(3)
 
-        # SWITCHES BETWEEN TINDER WINDOW AND FACEBOOK LOGIN POPUP WINDOW.
+        # Switches between Tinder window and Facebook login popup window.
         main_window_handle = None
 
         while not main_window_handle:
@@ -57,7 +57,7 @@ class Tinder:
         self.chrome_driver.switch_to.window(main_window_handle)
         time.sleep(8)
 
-        # GIVES PERMISSION FOR LOCATION AND NOTIFICATION SETTINGS.
+        # Gives permission for location and notification settings.
         self.chrome_driver.find_element(By.XPATH, '//*[@id="u91882383"]/main/div[1]/div/div/div[3]/button[1]').click()
         self.chrome_driver.find_element(By.XPATH, '//*[@id="u91882383"]/main/div[1]/div/div/div[3]/button[1]').click()
 
@@ -65,7 +65,7 @@ class Tinder:
         """Swipes Not like on Tinder profiles."""
         keep_swiping = True
         swipe_counter = 0
-        # SWIPES NOPE A 100 TIMES.
+        # Swipes Nope a 100 times.
         while keep_swiping:
             try:
                 if swipe_counter == 0:
