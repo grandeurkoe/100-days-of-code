@@ -29,7 +29,7 @@ Each project has been built from scratch with mininum to no assistance.<br/><br/
 | 37   | [Habit Tracker](day-037-advanced-authentication-and-post-put-delete-requests/habit-tracker)     | 47   | [Automated Amazon Price Tracker](day-047-automated-amazon-price-tracker/automated-amazon-price-tracker)     |
 | 38   | [Workout Tracker](day-038-workout-tracking-using-google-sheets/workout-tracking-using-google-sheets)     | 48   | [Automated Cookie Clicker](day-048-selenium-webdriver-and-game-playing-bot/automated-cookie-clicker)     |
 | 39   | [Flight Deal Finder](day-039-flight-deal-finder/flight-deal-finder)     | 49   | [Automated LinkedIn Application](day-049-automating-job-applications-on-linkedIn/automated-job-application)     |
-| 40   | [Flight Club](day-040-flight-club/flight-club)     |
+| 40   | [Flight Club](day-040-flight-club/flight-club)     | 50   | [Auto Tinder Swiper Bot](day-050-auto-tinder-swiping-bot/auto-tinder-swiping-bot)     |
 
 </div>
 
