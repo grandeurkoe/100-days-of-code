@@ -21,7 +21,7 @@ Each project has been built from scratch with mininum to no assistance.<br/><br/
 | Day | Project  | Day | Project  | Day | Project  |
 |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |
 | 31   | [Flash Card App](day-031-flash-card-app-capstone-project/flash-card-app-capstone-project)     | 41   | [Movie Ranking](day-041-introduction-to-html/movie-ranking)     | 51   | [Internet Speed Twitter Complaint Bot](day-051-internet-speed-twitter-complaint-bot/internet-speed-twitter-complaint-bot)     |
-| 32   | [Automated Birthday Wisher](day-032-send-email-and-manage-dates/automated-birthday-wisher)     | 42   | [Birthday Invite](day-042-intermediate-html/birthday-invite)     |
+| 32   | [Automated Birthday Wisher](day-032-send-email-and-manage-dates/automated-birthday-wisher)     | 42   | [Birthday Invite](day-042-intermediate-html/birthday-invite)     | 52   | [Instagram Follower Bot](day-052-instagram-follower-bot/instagram-follower-bot)     |
 | 33   | [Kanye Quotes App](day-033-api-endpoints-and-parameters-iss-overhead-notifier/kanye-quotes-app)     | 43   | [Color Vocabulary](day-043-introduction-to-css/color-vocab)     |
 | 34   | [Quizzler App](day-034-creating-a-gui-quiz-app/quizzler-app)     | 44   | [Motivation Meme](day-044-intermediate-css/motivation-meme)     |
 | 35   | [Rain Alert](day-035-sms-keys-authentication-and-env/rain-alert)     | 45   | [Top 100 Movies to Watch](day-045-web-scraping-with-beautiful-soup/top-100-movies-to-watch)     |
