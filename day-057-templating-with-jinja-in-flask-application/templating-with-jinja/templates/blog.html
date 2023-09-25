@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Blog</title>
+</head>
+<body>
+    <!-- For multiline Python code you need to encompass the code within curly braces followed by percent sign. -->
+    {% for blog_post in posts: %}
+        {% if blog_post['id'] == 2: %}
+            <h1>{{ blog_post["title"] }}</h1>
+            <h2>{{ blog_post["subtitle"] }}</h2>
+        {% endif %}
+    <!-- Jinja provides an endfor keyword to specify the end of the for loop. -->
+    {% endfor %}
+</body>
+</html>
