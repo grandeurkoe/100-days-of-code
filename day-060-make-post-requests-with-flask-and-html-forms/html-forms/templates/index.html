@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HTML Forms</title>
+</head>
+<body>
+    <!-- The form-handler is specified in the form's action attribute.
+         The form-handler is typically a file on the server with a script for processing input data.
+     -->
+    <form action="{{ url_for('receive_data') }}" method="post">
+        <!-- The for attribute is used to link the label element to their respective input element.
+             The value of the for attribute must be the id attribute of the input tag.-->
+        <label for="uname">Name</label>
+        <!-- If the name attribute is omitted, then the value of the input field will not be sent at all. -->
+        <!-- The type attribute is used to select what kind of input the element will receive. -->
+        <input type="text" id="uname" name="username"/>
+        <label for="pwd">Password</label>
+        <!-- The placeholder attribute allows us to add placeholders to our input fields. -->
+        <!-- Setting the value of type attribute as password will hide the password on input.-->
+        <input type="password" id="pwd" name="password" placeholder="password"/>
+        <input type="submit" value="Ok"/>
+    </form>
+</body>
+</html>
