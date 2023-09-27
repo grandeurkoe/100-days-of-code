@@ -31,6 +31,11 @@ Each project has been built from scratch with mininum to no assistance.<br/><br/
 | 39   | [Flight Deal Finder](day-039-flight-deal-finder/flight-deal-finder)     | 49   | [Automated LinkedIn Application](day-049-automating-job-applications-on-linkedIn/automated-job-application)     | 59   | [Better Blog Website](day-059-building-a-better-blog-using-bootstrap/better-blog)     |
 | 40   | [Flight Club](day-040-flight-club/flight-club)     | 50   | [Auto Tinder Swiper Bot](day-050-auto-tinder-swiping-bot/auto-tinder-swiping-bot)     | 60   | [Even Better Blog Website](day-060-make-post-requests-with-flask-and-html-forms/better-blog)     |
 
+| Day | Project  |
+|     :---:      |     :---:      |
+| 61   | [Flask Secrets](day-061-building-advanced-forms-with-flask-wtforms/flask-secrets)     |
+| 62   | [Coffee and Wifi Website](day-062-coffee-and-wifi-project/coffee-and-wifi)     |
+
 </div>
 
 ## Getting Started
