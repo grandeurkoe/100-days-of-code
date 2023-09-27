@@ -28,8 +28,8 @@ Each project has been built from scratch with mininum to no assistance.<br/><br/
 | 36   | [Stock Trading News Alert](day-036-stock-trading-news-alert-project/stock-trading-news-alert)     | 46   | [Musical Time Machine](day-046-musical-time-machine/musical-time-machine)     | 56   | [Name Card](day-056-rendering-static-files-and-using-website-templates/name-card)     |
 | 37   | [Habit Tracker](day-037-advanced-authentication-and-post-put-delete-requests/habit-tracker)     | 47   | [Automated Amazon Price Tracker](day-047-automated-amazon-price-tracker/automated-amazon-price-tracker)     | 57   | [Blog Website](day-057-templating-with-jinja-in-flask-application/blog)     |
 | 38   | [Workout Tracker](day-038-workout-tracking-using-google-sheets/workout-tracking-using-google-sheets)     | 48   | [Automated Cookie Clicker](day-048-selenium-webdriver-and-game-playing-bot/automated-cookie-clicker)     | 58   | [Tin Dog Website](day-058-bootstrap-framework/tin-dog)     |
-| 39   | [Flight Deal Finder](day-039-flight-deal-finder/flight-deal-finder)     | 49   | [Automated LinkedIn Application](day-049-automating-job-applications-on-linkedIn/automated-job-application)     |
-| 40   | [Flight Club](day-040-flight-club/flight-club)     | 50   | [Auto Tinder Swiper Bot](day-050-auto-tinder-swiping-bot/auto-tinder-swiping-bot)     |
+| 39   | [Flight Deal Finder](day-039-flight-deal-finder/flight-deal-finder)     | 49   | [Automated LinkedIn Application](day-049-automating-job-applications-on-linkedIn/automated-job-application)     | 59   | [Better Blog Website](day-059-building-a-better-blog-using-bootstrap/better-blog)     |
+| 40   | [Flight Club](day-040-flight-club/flight-club)     | 50   | [Auto Tinder Swiper Bot](day-050-auto-tinder-swiping-bot/auto-tinder-swiping-bot)     | 60   | [Even Better Blog Website](day-060-make-post-requests-with-flask-and-html-forms/better-blog)     |
 
 </div>
 
