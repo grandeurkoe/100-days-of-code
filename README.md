@@ -35,6 +35,7 @@ Each project has been built from scratch with mininum to no assistance.<br/><br/
 |     :---:      |     :---:      |
 | 61   | [Flask Secrets](day-061-building-advanced-forms-with-flask-wtforms/flask-secrets)     |
 | 62   | [Coffee and Wifi Website](day-062-coffee-and-wifi-project/coffee-and-wifi)     |
+| 63   | [Library Website](day-063-databases-with-sqlite-and-sqlalchemy/library-project)     |
 
 </div>
 
