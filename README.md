@@ -38,7 +38,7 @@ Each project has been built from scratch with mininum to no assistance.<br/><br/
 | 63   | [Library Website](day-063-databases-with-sqlite-and-sqlalchemy/library-project)     |
 | 64   | [Top 10 Movie Website](day-064-my-top-10-movie-website/top-movies)     |
 | 65   | [Web Design - Ares Hotel Website](https://www.canva.com/design/DAFv7iLyFEQ/JWuvgMKykhqIRV-YNGiUEg/view?website#4)     |
-
+| 66   | [Cafe and Wi-Fi API](day-066-building-your-own-api-with-restful-routing/cafe-api)     |
 </div>
 
 ## Getting Started
