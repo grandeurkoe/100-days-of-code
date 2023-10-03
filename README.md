@@ -40,6 +40,7 @@ Each project has been built from scratch with mininum to no assistance.<br/><br/
 | 65   | [Web Design - Ares Hotel Website](https://www.canva.com/design/DAFv7iLyFEQ/JWuvgMKykhqIRV-YNGiUEg/view?website#4)     |
 | 66   | [Cafe and Wi-Fi API](day-066-building-your-own-api-with-restful-routing/cafe-api)     |
 | 67   | [Upgraded Blog Website](day-067-blog-capstone-project-restful-routing/upgraded-blog)     |
+| 68   | [Flask Authentication Website](day-068-authentication-with-flask/authentication-with-flask)     |
 
 </div>
 
