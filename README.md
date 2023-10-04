@@ -41,6 +41,7 @@ Each project has been built from scratch with mininum to no assistance.<br/><br/
 | 66   | [Cafe and Wi-Fi API](day-066-building-your-own-api-with-restful-routing/cafe-api)     |
 | 67   | [Upgraded Blog Website](day-067-blog-capstone-project-restful-routing/upgraded-blog)     |
 | 68   | [Flask Authentication Website](day-068-authentication-with-flask/authentication-with-flask)     |
+| 69   | [Grandeurkoe Blog Website](day-069-blog-capstone-project/blog-with-users)     |
 
 </div>
 
