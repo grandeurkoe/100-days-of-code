@@ -31,9 +31,9 @@ Each project has been built from scratch with mininum to no assistance.<br/><br/
 | 39   | [Flight Deal Finder](day-039-flight-deal-finder/flight-deal-finder)     | 49   | [Automated LinkedIn Application](day-049-automating-job-applications-on-linkedIn/automated-job-application)     | 59   | [Better Blog Website](day-059-building-a-better-blog-using-bootstrap/better-blog)     |
 | 40   | [Flight Club](day-040-flight-club/flight-club)     | 50   | [Auto Tinder Swiper Bot](day-050-auto-tinder-swiping-bot/auto-tinder-swiping-bot)     | 60   | [Even Better Blog Website](day-060-make-post-requests-with-flask-and-html-forms/better-blog)     |
 
-| Day | Project  |
-|     :---:      |     :---:      |
-| 61   | [Flask Secrets](day-061-building-advanced-forms-with-flask-wtforms/flask-secrets)     |
+| Day | Project  | Day | Project  |
+|     :---:      |     :---:      |     :---:      |     :---:      |
+| 61   | [Flask Secrets](day-061-building-advanced-forms-with-flask-wtforms/flask-secrets)     | 71   | [Live Blog Website](https://grandeurkoe-blog.onrender.com/)     |
 | 62   | [Coffee and Wifi Website](day-062-coffee-and-wifi-project/coffee-and-wifi)     |
 | 63   | [Library Website](day-063-databases-with-sqlite-and-sqlalchemy/library-project)     |
 | 64   | [Top 10 Movie Website](day-064-my-top-10-movie-website/top-movies)     |
@@ -42,6 +42,7 @@ Each project has been built from scratch with mininum to no assistance.<br/><br/
 | 67   | [Upgraded Blog Website](day-067-blog-capstone-project-restful-routing/upgraded-blog)     |
 | 68   | [Flask Authentication Website](day-068-authentication-with-flask/authentication-with-flask)     |
 | 69   | [Grandeurkoe Blog Website](day-069-blog-capstone-project/blog-with-users)     |
+| 70   | [Git Test](day-070-git-github-and-version-control/git-test)     |
 
 </div>
 
