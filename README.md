@@ -34,7 +34,7 @@ Each project has been built from scratch with mininum to no assistance.<br/><br/
 | Day | Project  | Day | Project  |
 |     :---:      |     :---:      |     :---:      |     :---:      |
 | 61   | [Flask Secrets](day-061-building-advanced-forms-with-flask-wtforms/flask-secrets)     | 71   | [Live Blog Website](https://grandeurkoe-blog.onrender.com/)     |
-| 62   | [Coffee and Wifi Website](day-062-coffee-and-wifi-project/coffee-and-wifi)     |
+| 62   | [Coffee and Wifi Website](day-062-coffee-and-wifi-project/coffee-and-wifi)     | 72   | [College Major v.s. Your Salary Analysis](day-072-data-exporation-with-pandas-college-major-vs-your-salary)     |
 | 63   | [Library Website](day-063-databases-with-sqlite-and-sqlalchemy/library-project)     |
 | 64   | [Top 10 Movie Website](day-064-my-top-10-movie-website/top-movies)     |
 | 65   | [Web Design - Ares Hotel Website](https://www.canva.com/design/DAFv7iLyFEQ/JWuvgMKykhqIRV-YNGiUEg/view?website#4)     |
