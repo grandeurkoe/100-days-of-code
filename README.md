@@ -50,7 +50,7 @@ To install the latest version of PyCharm Community Edition, run the following co
 sudo snap install pycharm-community --classic
 ```
 
-### Installling
+### Installing
 
 You can install all the required packages listed in the requirements.txt file for the project at the same time: 
 
