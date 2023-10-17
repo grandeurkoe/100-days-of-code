@@ -35,11 +35,11 @@ Each project has been built from scratch with mininum to no assistance.<br/><br/
 |     :---:      |     :---:      |     :---:      |     :---:      |
 | 61   | [Flask Secrets](day-061-building-advanced-forms-with-flask-wtforms/flask-secrets)     | 71   | [Live Blog Website](https://grandeurkoe-blog.onrender.com/)     |
 | 62   | [Coffee and Wifi Website](day-062-coffee-and-wifi-project/coffee-and-wifi)     | 72   | [College Major v.s. Your Salary Analysis](day-072-data-exporation-with-pandas-college-major-vs-your-salary)     |
-| 63   | [Library Website](day-063-databases-with-sqlite-and-sqlalchemy/library-project)     |
-| 64   | [Top 10 Movie Website](day-064-my-top-10-movie-website/top-movies)     |
-| 65   | [Web Design - Ares Hotel Website](https://www.canva.com/design/DAFv7iLyFEQ/JWuvgMKykhqIRV-YNGiUEg/view?website#4)     |
-| 66   | [Cafe and Wi-Fi API](day-066-building-your-own-api-with-restful-routing/cafe-api)     |
-| 67   | [Upgraded Blog Website](day-067-blog-capstone-project-restful-routing/upgraded-blog)     |
+| 63   | [Library Website](day-063-databases-with-sqlite-and-sqlalchemy/library-project)     | 73   | [Programming Language Analysis](day-073-data-visualization-with-matplotlib/programming-language)     |
+| 64   | [Top 10 Movie Website](day-064-my-top-10-movie-website/top-movies)     | 74   | [The Lego Dataset Analysis](day-074-aggregate-and-merge-data-with-pandas/analyze-the-lego-dataset)     |
+| 65   | [Web Design - Ares Hotel Website](https://www.canva.com/design/DAFv7iLyFEQ/JWuvgMKykhqIRV-YNGiUEg/view?website#4)     | 75   | [Google Trends Data Analysis](day-075-resampling-and-visualizing-time-series/google-trends-data-analysis)     |
+| 66   | [Cafe and Wi-Fi API](day-066-building-your-own-api-with-restful-routing/cafe-api)     | 76   | [Google Play Store App Analysis](day-076-beautiful-plotly-charts-and-analyzing-the-android-app-store/google-play-store-analysis)     |
+| 67   | [Upgraded Blog Website](day-067-blog-capstone-project-restful-routing/upgraded-blog)     | 77   | [Computation with NumPy](day-077-computation-with-numpy-and-n-dimensional-array)     |
 | 68   | [Flask Authentication Website](day-068-authentication-with-flask/authentication-with-flask)     |
 | 69   | [Grandeurkoe Blog Website](day-069-blog-capstone-project/blog-with-users)     |
 | 70   | [Git Test](day-070-git-github-and-version-control/git-test)     |
@@ -66,6 +66,16 @@ To install the latest version of PyCharm Community Edition, run the following co
 sudo snap install pycharm-community --classic
 ```
 
+### Installling
+
+You can install all the required packages listed in the requirements.txt file for the project at the same time: 
+
+
+<b>For Windows:</b>
+<br/> 
+```
+python -m pip install -r requirements.txt
+```
 
 ## Built With
 <p>
@@ -74,6 +84,7 @@ sudo snap install pycharm-community --classic
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-59287a?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-4848b6?style=flat-square&logo=pandas&logoColor=white" />
+ <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-7099f7?style=flat-square&logo=numpy&logoColor=4848b6" />
   <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-7099f7?style=flat-square&logo=sqlite&logoColor=white" />
   <img alt="Jinja" src="https://img.shields.io/badge/-Jinja-3D0C11?style=flat-square&logo=jinja&logoColor=white" />
   <img alt="Selenium" src="https://img.shields.io/badge/Selenium-16FF00?style=flat-square&logo=selenium&logoColor=white" />
