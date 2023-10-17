@@ -17,7 +17,16 @@ Each project has been built from scratch with mininum to no assistance.<br/><br/
 |**008**| ***Caesar Cipher***| _Python Scripting_| [Github Link](day-008-function-parameters-and-caesar-cipher/caesar-cipher)|
 |**009**| ***Secret Auction***| _Python Scripting_| [Github Link](day-009-dictionaries-nesting-and-the-secret-auction/secret-auction)|
 |**010**| ***Calculator***| _Python Scripting_| [Github Link](day-010-functions-with-outputs/calculator)|
-
+|**011**| ***The Blackjack Game***| _Python Scripting_| [Github Link](day-011-the-blackjack-capstone-project/the-blackjack-capstone-project)|
+|**012**| ***Number Guessing Game***| _Python Scripting_| [Github Link](day-012-scope-and-number-guessing-game/number-guessing-game)|
+|**013**| ***Debugger***| _Python Scripting_| [Github Link](day-013-debugging-how-to-find-and-fix-errors-in-your-code/debugging)|
+|**014**| ***Higher Lower Game***| _Python Scripting_| [Github Link](day-014-higher-lower-game-project/higher-lower-game)|
+|**015**| ***The Coffee Machine***| _Python Scripting_| [Github Link](day-015-the-coffee-machine/the-coffee-machine)|
+|**016**| ***The Coffee Machine(OOP Version)***| _Python Scripting_| [Github Link](day-016-object-oriented-programming/the-coffee-machine-oop-version)|
+|**017**| ***The Quiz Game***| _Python Scripting_| [Github Link](day-017-the-quiz-game-project-and-the-benefits-of-oop/the-quiz-game)|
+|**018**| ***The Hirst Painting***| _GUI_| [Github Link](day-018-turtle-and-the-gui/the-hirst-painting-project)|
+|**019**| ***Turtle Race***| _GUI_| [Github Link](day-019-etch-a-sketch-and-the-turtle-race/turtle-race)|
+|**020 - 021**| ***The Snake Game***| _GUI_| [Github Link](day-020-and-021-build-the-snake-game/the-snake-game)|
 
 </div>
 
