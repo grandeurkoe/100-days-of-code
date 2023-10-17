@@ -7,11 +7,16 @@ Each project has been built from scratch with mininum to no assistance.<br/><br/
 
 | Day | Project Name | Project Type | Project Link  |
 |     :---:      |     :---:      |     :---:      |     :---:      |
-|**1**| ***Band Name Generator***| _Python Scripting_| [Github Link](day-001-working-with-variables-in-python-to-manage-data/band-name-generator)|
-|**2**| ***Tip Calculator***| _Python Scripting_| [Github Link](day-002-understanding-data-types-and-how-to-manipulate-strings/tip-calculator)|
-|**3**| ***Treasure Island***| _Python Scripting_| [Github Link](day-003-control-flow-and-logical-operators/treasure-island)|
-|**4**| ***Rock Paper Scissors***| _Python Scripting_| [Github Link](day-004-randomisation-and-python-lists/rock-paper-scissors)|
-|**5**| ***Reeborg's World Maze***| _Python Scripting_| - |
+|**001**| ***Band Name Generator***| _Python Scripting_| [Github Link](day-001-working-with-variables-in-python-to-manage-data/band-name-generator)|
+|**002**| ***Tip Calculator***| _Python Scripting_| [Github Link](day-002-understanding-data-types-and-how-to-manipulate-strings/tip-calculator)|
+|**003**| ***Treasure Island***| _Python Scripting_| [Github Link](day-003-control-flow-and-logical-operators/treasure-island)|
+|**004**| ***Rock Paper Scissors***| _Python Scripting_| [Github Link](day-004-randomisation-and-python-lists/rock-paper-scissors)|
+|**005**| ***Password Generator***| _Python Scripting_| [Github Link](day-005-python-loops/password-generator)|
+|**006**| ***Reeborg's World Maze***| _Python Scripting_| - |
+|**007**| ***Hangman Game***| _Python Scripting_| [Github Link](day-007-hangman/hangman)|
+|**008**| ***Caesar Cipher***| _Python Scripting_| [Github Link](day-008-function-parameters-and-caesar-cipher/caesar-cipher)|
+|**009**| ***Secret Auction***| _Python Scripting_| [Github Link](day-009-dictionaries-nesting-and-the-secret-auction/secret-auction)|
+|**010**| ***Calculator***| _Python Scripting_| [Github Link](day-010-functions-with-outputs/calculator)|
 
 
 </div>
