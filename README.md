@@ -7,8 +7,11 @@ Each project has been built from scratch with mininum to no assistance.<br/><br/
 
 | Day | Project Name | Project Type | Project Link  |
 |     :---:      |     :---:      |     :---:      |     :---:      |
-|**1**| ***Band Name Generator***| _Python Scripting_| [Github Link](day-001-working-with-variables-in-python-to-manage-data/band-name-generator)
-|**2**| ***Tip Calculator***| _Python Scripting_| [Github Link](day-002-understanding-data-types-and-how-to-manipulate-strings/tip-calculator)
+|**1**| ***Band Name Generator***| _Python Scripting_| [Github Link](day-001-working-with-variables-in-python-to-manage-data/band-name-generator)|
+|**2**| ***Tip Calculator***| _Python Scripting_| [Github Link](day-002-understanding-data-types-and-how-to-manipulate-strings/tip-calculator)|
+|**3**| ***Treasure Island***| _Python Scripting_| [Github Link](day-003-control-flow-and-logical-operators/treasure-island)|
+|**4**| ***Rock Paper Scissors***| _Python Scripting_| [Github Link](day-004-randomisation-and-python-lists/rock-paper-scissors)|
+|**5**| ***Reeborg's World Maze***| _Python Scripting_| - |
 
 
 </div>
