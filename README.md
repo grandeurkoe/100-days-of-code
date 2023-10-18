@@ -37,8 +37,14 @@ Each project has been built from scratch with mininum to no assistance.<br/><br/
 |**029 - 030**| ***Password Manager***| _GUI Desktop App_| [Github Link](day-029-password-manager-gui-app-with-tkinter/password-manager-gui-app)|
 |**031**| ***Flash Card App***| _GUI Desktop App_| [Github Link](day-031-flash-card-app-capstone-project/flash-card-app-capstone-project)|
 |**032**| ***Automated Birthday Wisher***| _Python Scripting_| [Github Link](day-032-send-email-and-manage-dates/automated-birthday-wisher)|
-|**033**| ***Kanye Quotes App***| _GUI Desktop App, HTTP Requests and APIs_| [Github Link](day-031-flash-card-app-capstone-project/flash-card-app-capstone-project)|
-
+|**033**| ***Kanye Quotes App***| _HTTP Requests and APIs_| [Github Link](day-031-flash-card-app-capstone-project/flash-card-app-capstone-project)|
+|**034**| ***GUI Quiz App***| _HTTP Requests and APIs_| [Github Link](day-034-creating-a-gui-quiz-app/quizzler-app)|
+|**035**| ***Rain Alert***| _HTTP Requests and APIs_| [Github Link](day-035-sms-keys-authentication-and-env/rain-alert)|
+|**036**| ***Stock Trading News Alert***| _HTTP Requests and APIs_| [Github Link](dday-036-stock-trading-news-alert-project/stock-trading-news-alert)|
+|**037**| ***Habit Tracker***| _HTTP Requests and APIs_| [Github Link](day-037-advanced-authentication-and-post-put-delete-requests/habit-tracker)|
+|**038**| ***Workout Tracker***| _HTTP Requests and APIs_| [Github Link](day-038-workout-tracking-using-google-sheets/workout-tracking-using-google-sheets)|
+|**039**| ***Flight Deal Finder***| _HTTP Requests and APIs_| [Github Link](day-039-flight-deal-finder/flight-deal-finder)|
+|**040**| ***Flight Club***| _HTTP Requests and APIs_| [Github Link](day-040-flight-club/flight-club)|
 
 </div>
 
