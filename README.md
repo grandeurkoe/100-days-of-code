@@ -22,7 +22,7 @@ Each project has been built from scratch with mininum to no assistance.<br/><br/
 |**013**| ***Debugger***| _Python Scripting_| [Github Link](day-013-debugging-how-to-find-and-fix-errors-in-your-code/debugging)|
 |**014**| ***Higher Lower Game***| _Python Scripting_| [Github Link](day-014-higher-lower-game-project/higher-lower-game)|
 |**015**| ***The Coffee Machine***| _Python Scripting_| [Github Link](day-015-the-coffee-machine/the-coffee-machine)|
-|**016**| ***The Coffee Machine(OOP Version)***| _Python Scripting_| [Github Link](day-016-object-oriented-programming/the-coffee-machine-oop-version)|
+|**016**| ***The Coffee Machine (OOP Version)***| _Python Scripting_| [Github Link](day-016-object-oriented-programming/the-coffee-machine-oop-version)|
 |**017**| ***The Quiz Game***| _Python Scripting_| [Github Link](day-017-the-quiz-game-project-and-the-benefits-of-oop/the-quiz-game)|
 |**018**| ***The Hirst Painting***| _GUI_| [Github Link](day-018-turtle-and-the-gui/the-hirst-painting-project)|
 |**019**| ***Turtle Race***| _GUI Game_| [Github Link](day-019-etch-a-sketch-and-the-turtle-race/turtle-race)|
@@ -60,6 +60,18 @@ Each project has been built from scratch with mininum to no assistance.<br/><br/
 |**053**| ***Data Entry Bot***| _Automation_| [Github Link](day-053-data-entry-job-automation/data-entry-job-automation)|
 |**054**| ***Python Decorator***| _Flask Web Development_| [Github Link](day-054-introduction-to-web-development-with-flask/python-decorators)|
 |**055**| ***Higher or Lower URLs***| _Flask Web Development_| [Github Link](day-055-html-and-url-parsing-in-flask-and-the-higher-lower-game)|
+|**056**| ***Name Card***| _Flask Web Development_| [Github Link](day-056-rendering-static-files-and-using-website-templates/name-card)|
+|**057**| ***Blog (Version 1)***| _Flask Web Development_| [Github Link](day-057-templating-with-jinja-in-flask-application/blog)|
+|**058**| ***Tin Dog***| _Flask Web Development_| [Github Link](day-058-bootstrap-framework/tin-dog)|
+|**059**| ***Blog (Version 2)***| _Flask Web Development_| [Github Link](day-059-building-a-better-blog-using-bootstrap/better-blog)|
+|**060**| ***Blog (Version 3)***| _Flask Web Development_| [Github Link](day-060-make-post-requests-with-flask-and-html-forms/better-blog)|
+|**061**| ***Flask Secrets***| _Flask Web Development_| [Github Link](day-061-building-advanced-forms-with-flask-wtforms/flask-secrets)|
+|**062**| ***Coffee and Wi-Fi***| _Flask Web Development_| [Github Link](day-062-coffee-and-wifi-project/coffee-and-wifi)|
+|**063**| ***Library***| _Flask Web Development_| [Github Link](day-063-databases-with-sqlite-and-sqlalchemy/library-project)|
+|**064**| ***Top Movie***| _Flask Web Development_| [Github Link](day-064-my-top-10-movie-website/top-movies)|
+|**065**| ***Ares Hotel***| _Web Development_| [Github Link](day-065-web-design)|
+|**066**| ***Cafe API***| _Flask Web Development_| [Github Link](day-066-building-your-own-api-with-restful-routing/cafe-api)|
+
 
 </div>
 
