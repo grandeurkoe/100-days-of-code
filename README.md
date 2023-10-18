@@ -45,6 +45,16 @@ Each project has been built from scratch with mininum to no assistance.<br/><br/
 |**038**| ***Workout Tracker***| _HTTP Requests and APIs_| [Github Link](day-038-workout-tracking-using-google-sheets/workout-tracking-using-google-sheets)|
 |**039**| ***Flight Deal Finder***| _HTTP Requests and APIs_| [Github Link](day-039-flight-deal-finder/flight-deal-finder)|
 |**040**| ***Flight Club***| _HTTP Requests and APIs_| [Github Link](day-040-flight-club/flight-club)|
+|**041**| ***Movie Ranking***| _Web Development_| [Github Link](day-041-introduction-to-html/movie-ranking)|
+|**042**| ***Birthday Invite***| _Web Development_| [Github Link](day-042-intermediate-html/birthday-invite)|
+|**043**| ***Color Vocabulary***| _Web Development_| [Github Link](day-043-introduction-to-css/color-vocab)|
+|**044**| ***Motivation Meme***| _Web Development_| [Github Link](day-044-intermediate-css/motivation-meme)|
+|**045**| ***Top 100 Movies to Watch***| _Web Scraping_| [Github Link](day-045-web-scraping-with-beautiful-soup/top-100-movies-to-watch)|
+|**046**| ***Musical Time Machine***| _Web Scraping_| [Github Link](day-046-musical-time-machine/musical-time-machine)|
+|**047**| ***Amazon Price Tracker***| _Web Scraping_| [Github Link](day-047-automated-amazon-price-tracker/automated-amazon-price-tracker)|
+|**048**| ***Cookie Clicker***| _Automation_| [Github Link](day-048-selenium-webdriver-and-game-playing-bot/automated-cookie-clicker)|
+|**049**| ***LinkedIn Job Application***| _Automation_| [Github Link](day-049-automating-job-applications-on-linkedIn/automated-job-application)|
+|**050**| ***Tinder Swiping Bot***| _Automation_| [Github Link](day-050-auto-tinder-swiping-bot/auto-tinder-swiping-bot)|
 
 </div>
 
