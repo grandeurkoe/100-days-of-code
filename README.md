@@ -55,6 +55,10 @@ Each project has been built from scratch with mininum to no assistance.<br/><br/
 |**048**| ***Cookie Clicker***| _Automation_| [Github Link](day-048-selenium-webdriver-and-game-playing-bot/automated-cookie-clicker)|
 |**049**| ***LinkedIn Job Application***| _Automation_| [Github Link](day-049-automating-job-applications-on-linkedIn/automated-job-application)|
 |**050**| ***Tinder Swiping Bot***| _Automation_| [Github Link](day-050-auto-tinder-swiping-bot/auto-tinder-swiping-bot)|
+|**051**| ***Internet Speed Twitter Complaint Bot***| _Automation_| [Github Link](day-051-internet-speed-twitter-complaint-bot/internet-speed-twitter-complaint-bot)|
+|**052**| ***Instagram Follower Bot***| _Automation_| [Github Link](day-052-instagram-follower-bot/instagram-follower-bot)|
+|**053**| ***Data Entry Bot***| _Automation_| [Github Link](day-053-data-entry-job-automation/data-entry-job-automation)|
+|**054**| ***Python Decorator***| _Flask Web Development_| [Github Link](day-054-introduction-to-web-development-with-flask/python-decorators)|
 
 </div>
 
