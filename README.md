@@ -27,6 +27,15 @@ Each project has been built from scratch with mininum to no assistance.<br/><br/
 |**018**| ***The Hirst Painting***| _GUI_| [Github Link](day-018-turtle-and-the-gui/the-hirst-painting-project)|
 |**019**| ***Turtle Race***| _GUI_| [Github Link](day-019-etch-a-sketch-and-the-turtle-race/turtle-race)|
 |**020 - 021**| ***The Snake Game***| _GUI_| [Github Link](day-020-and-021-build-the-snake-game/the-snake-game)|
+|**022**| ***The Pong Game***| _GUI_| [Github Link](day-022-build-pong/the-pong-game)|
+|**023**| ***The Turtle Crossing Game***| _GUI_| [Github Link](day-023-the-turtle-crossing-capstone-project/the-turtle-crossing-game)|
+|**024**| ***Mail Merge***| _Python Scripting_| [Github Link](day-024-files-directories-and-paths/mail-merge-project)|
+|**025**| ***US States Game***| _GUI_| [Github Link](day-025-working-with-csv-data-and-the-pandas-library/us-states-game)|
+|**026**| ***The NATO Alphabet***| _GUI_| [Github Link](day-026-list-comprehension-and-the-nato-alphabet/the-nato-alphabet-project)|
+|**027**| ***Miles to Kilometer Converter***| _GUI_| [Github Link](day-027-tkinter-unlimited-arguments-and-gui/miles-to-km-converter-project)|
+|**028**| ***The Pomodoro App***| _GUI_| [Github Link](day-028-the-pomodoro-gui-application/the-pomodoro-app)|
+|**029 - 030**| ***Password Manager***| _GUI_| [Github Link](day-029-password-manager-gui-app-with-tkinter/password-manager-gui-app)|
+
 
 </div>
 
