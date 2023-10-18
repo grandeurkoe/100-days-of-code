@@ -25,17 +25,18 @@ Each project has been built from scratch with mininum to no assistance.<br/><br/
 |**016**| ***The Coffee Machine(OOP Version)***| _Python Scripting_| [Github Link](day-016-object-oriented-programming/the-coffee-machine-oop-version)|
 |**017**| ***The Quiz Game***| _Python Scripting_| [Github Link](day-017-the-quiz-game-project-and-the-benefits-of-oop/the-quiz-game)|
 |**018**| ***The Hirst Painting***| _GUI_| [Github Link](day-018-turtle-and-the-gui/the-hirst-painting-project)|
-|**019**| ***Turtle Race***| _GUI_| [Github Link](day-019-etch-a-sketch-and-the-turtle-race/turtle-race)|
-|**020 - 021**| ***The Snake Game***| _GUI_| [Github Link](day-020-and-021-build-the-snake-game/the-snake-game)|
-|**022**| ***The Pong Game***| _GUI_| [Github Link](day-022-build-pong/the-pong-game)|
-|**023**| ***The Turtle Crossing Game***| _GUI_| [Github Link](day-023-the-turtle-crossing-capstone-project/the-turtle-crossing-game)|
+|**019**| ***Turtle Race***| _GUI Game_| [Github Link](day-019-etch-a-sketch-and-the-turtle-race/turtle-race)|
+|**020 - 021**| ***The Snake Game***| _GUI Game_| [Github Link](day-020-and-021-build-the-snake-game/the-snake-game)|
+|**022**| ***The Pong Game***| _GUI Game_| [Github Link](day-022-build-pong/the-pong-game)|
+|**023**| ***The Turtle Crossing Game***| _GUI Game_| [Github Link](day-023-the-turtle-crossing-capstone-project/the-turtle-crossing-game)|
 |**024**| ***Mail Merge***| _Python Scripting_| [Github Link](day-024-files-directories-and-paths/mail-merge-project)|
-|**025**| ***US States Game***| _GUI_| [Github Link](day-025-working-with-csv-data-and-the-pandas-library/us-states-game)|
-|**026**| ***The NATO Alphabet***| _GUI_| [Github Link](day-026-list-comprehension-and-the-nato-alphabet/the-nato-alphabet-project)|
-|**027**| ***Miles to Kilometer Converter***| _GUI_| [Github Link](day-027-tkinter-unlimited-arguments-and-gui/miles-to-km-converter-project)|
-|**028**| ***The Pomodoro App***| _GUI_| [Github Link](day-028-the-pomodoro-gui-application/the-pomodoro-app)|
-|**029 - 030**| ***Password Manager***| _GUI_| [Github Link](day-029-password-manager-gui-app-with-tkinter/password-manager-gui-app)|
-
+|**025**| ***US States Game***| _GUI Game_| [Github Link](day-025-working-with-csv-data-and-the-pandas-library/us-states-game)|
+|**026**| ***The NATO Alphabet***| _Python Scripting_| [Github Link](day-026-list-comprehension-and-the-nato-alphabet/the-nato-alphabet-project)|
+|**027**| ***Miles to Kilometer Converter***| _GUI Desktop App_| [Github Link](day-027-tkinter-unlimited-arguments-and-gui/miles-to-km-converter-project)|
+|**028**| ***The Pomodoro App***| _GUI Desktop App_| [Github Link](day-028-the-pomodoro-gui-application/the-pomodoro-app)|
+|**029 - 030**| ***Password Manager***| _GUI Desktop App_| [Github Link](day-029-password-manager-gui-app-with-tkinter/password-manager-gui-app)|
+|**031**| ***Flash Card App***| _GUI Desktop App_| [Github Link](day-031-flash-card-app-capstone-project/flash-card-app-capstone-project)|
+|**032**| ***Automated Birthday Wisher***| _Python Scripting_| [Github Link](day-032-send-email-and-manage-dates/automated-birthday-wisher)|
 
 </div>
 
