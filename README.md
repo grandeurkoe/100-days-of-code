@@ -37,6 +37,8 @@ Each project has been built from scratch with mininum to no assistance.<br/><br/
 |**029 - 030**| ***Password Manager***| _GUI Desktop App_| [Github Link](day-029-password-manager-gui-app-with-tkinter/password-manager-gui-app)|
 |**031**| ***Flash Card App***| _GUI Desktop App_| [Github Link](day-031-flash-card-app-capstone-project/flash-card-app-capstone-project)|
 |**032**| ***Automated Birthday Wisher***| _Python Scripting_| [Github Link](day-032-send-email-and-manage-dates/automated-birthday-wisher)|
+|**033**| ***Kanye Quotes App***| _GUI Desktop App, HTTP Requests and APIs_| [Github Link](day-031-flash-card-app-capstone-project/flash-card-app-capstone-project)|
+
 
 </div>
 
