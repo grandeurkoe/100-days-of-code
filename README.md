@@ -59,6 +59,7 @@ Each project has been built from scratch with mininum to no assistance.<br/><br/
 |**052**| ***Instagram Follower Bot***| _Automation_| [Github Link](day-052-instagram-follower-bot/instagram-follower-bot)|
 |**053**| ***Data Entry Bot***| _Automation_| [Github Link](day-053-data-entry-job-automation/data-entry-job-automation)|
 |**054**| ***Python Decorator***| _Flask Web Development_| [Github Link](day-054-introduction-to-web-development-with-flask/python-decorators)|
+|**055**| ***Higher or Lower URLs***| _Flask Web Development_| [Github Link](day-055-html-and-url-parsing-in-flask-and-the-higher-lower-game)|
 
 </div>
 
