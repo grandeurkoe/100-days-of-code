@@ -71,6 +71,18 @@ Each project has been built from scratch with mininum to no assistance.<br/><br/
 |**064**| ***Top Movie***| _Flask Web Development_| [Github Link](day-064-my-top-10-movie-website/top-movies)|
 |**065**| ***Ares Hotel***| _Web Development_| [Github Link](day-065-web-design)|
 |**066**| ***Cafe API***| _Flask Web Development_| [Github Link](day-066-building-your-own-api-with-restful-routing/cafe-api)|
+|**067**| ***Blog (Version 4)***| _Flask Web Development_| [Github Link](day-067-blog-capstone-project-restful-routing/upgraded-blog)|
+|**068**| ***Flask Authentication***| _Flask Web Development_| [Github Link](day-068-authentication-with-flask/authentication-with-flask)|
+|**069**| ***Blog (Version 5)***| _Flask Web Development_| [Github Link](day-069-blog-capstone-project/blog-with-users)|
+|**070**| ***Git Test***| _Github Workflow_| [Github Link](day-070-git-github-and-version-control/git-test)|
+|**071**| ***Grandeurkoe Blog***| _Flask Web Development_| [Live Link](https://grandeurkoe-blog.onrender.com/)|
+|**072**| ***College Major vs Your Salary Analysis***| _Data Science_| [Github Link](day-072-data-exporation-with-pandas-college-major-vs-your-salary/college-major-vs-your-salary)|
+|**073**| ***Programming Languages Analysis***| _Data Science_| [Github Link](day-073-data-visualization-with-matplotlib/programming-language)|
+|**074**| ***Lego Analysis***| _Data Science_| [Github Link](day-074-aggregate-and-merge-data-with-pandas/analyze-the-lego-dataset)|
+|**075**| ***Google Trends Data Analysis***| _Data Science_| [Github Link](day-075-resampling-and-visualizing-time-series/google-trends-data-analysis)|
+|**076**| ***Google Play Store Analysis***| _Data Science_| [Github Link](day-076-beautiful-plotly-charts-and-analyzing-the-android-app-store/google-play-store-analysis)|
+|**077**| ***Computation with NumPy***| _Data Science_| [Github Link](day-077-computation-with-numpy-and-n-dimensional-array)|
+|**078**| ***Movie Budget and Financial Performance Analysis***| _Data Science_| [Github Link](day-078-linear-regression-and-data-visualization-with-seaborn/movie-budget-and-financial-performance-analysis)|
 
 
 </div>
