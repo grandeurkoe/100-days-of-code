@@ -85,6 +85,7 @@ Each project has been built from scratch with minimal to no assistance.<br/><br/
 |**078**| ***Movie Budget and Financial Performance Analysis***| _Data Science_| [Github Link](day-078-linear-regression-and-data-visualization-with-seaborn/movie-budget-and-financial-performance-analysis)|
 |**079**| ***Nobel Prize Analysis***| _Data Science_| [Github Link](day-079-analyzing-the-nobel-prize-with-plotly-matplotlib-and-seaborn/nobel-prize-analysis)|
 |**080**| ***Dr. Semmelweis' Handwashing Analysis***| _Data Science_| [Github Link](day-080-t-tests-and-distributions/dr-semmesweis-handwashing-analysis)|
+|**081**| ***Predict Boston House Prices***| _Data Science_| [Github Link](day-081-predict-house-prices/predict-boston-house-prices)|
 
 </div>
 
