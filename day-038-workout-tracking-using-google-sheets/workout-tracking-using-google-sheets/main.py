@@ -13,6 +13,7 @@ NUTRI_API_KEY = os.environ["NUTRI_KEY"]
 SHEETY_USERNAME = os.environ["USERNAME"]
 BEARER_TOKEN = os.environ["BEARER_TOKEN"]
 
+# My Workouts  Google Sheet Address - https://docs.google.com/spreadsheets/d/1MDL9iuIWoPxPDKTxJRkEG0EZD4MYpKcm_SetEhMM29E/edit?pli=1#gid=0
 # Nutritionix and Sheety Endpoints
 NUTRI_ENDPOINT = "https://trackapi.nutritionix.com/v2/natural/exercise"
 SHEETY_ENDPOINT = f"https://api.sheety.co/{SHEETY_USERNAME}//myWorkouts/workouts"
