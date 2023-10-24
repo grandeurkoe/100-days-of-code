@@ -44,7 +44,7 @@ Each project has been built from scratch with minimal to no assistance.<br/><br/
 |**033**| ***Kanye Quotes App***| _HTTP Requests and APIs_| [Github Link](day-031-flash-card-app-capstone-project/flash-card-app-capstone-project)|
 |**034**| ***Quizzler App***| _HTTP Requests and APIs_| [Github Link](day-034-creating-a-gui-quiz-app/quizzler-app)|
 |**035**| ***Rain Alert***| _HTTP Requests and APIs_| [Github Link](day-035-sms-keys-authentication-and-env/rain-alert)|
-|**036**| ***Stock Trading News Alert***| _HTTP Requests and APIs_| [Github Link](dday-036-stock-trading-news-alert-project/stock-trading-news-alert)|
+|**036**| ***Stock Trading News Alert***| _HTTP Requests and APIs_| [Github Link](day-036-stock-trading-news-alert-project/stock-trading-news-alert)|
 |**037**| ***Habit Tracker***| _HTTP Requests and APIs_| [Github Link](day-037-advanced-authentication-and-post-put-delete-requests/habit-tracker)|
 |**038**| ***Workout Tracker***| _HTTP Requests and APIs_| [Github Link](day-038-workout-tracking-using-google-sheets/workout-tracking-using-google-sheets)|
 |**039**| ***Flight Deal Finder***| _HTTP Requests and APIs_| [Github Link](day-039-flight-deal-finder/flight-deal-finder)|
