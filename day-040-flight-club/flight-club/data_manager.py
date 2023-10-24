@@ -1,6 +1,7 @@
 import os
 import requests
 
+# Flight Deal Sheet Address - https://docs.google.com/spreadsheets/d/1JGbWkKxqX3184LsOQz_MmbtWu0h7bk0dadPbejZEg_o/edit#gid=115427991
 # Important Sheety API key, Sheety username are stored as environment variables.
 SHEETY_API = os.environ["SHEETY_AUTH_BEARER"]
 SHEETY_USERNAME = os.environ["SHEETY_USERNAME"]
