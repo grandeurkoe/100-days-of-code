@@ -8,12 +8,13 @@ PIXELA_USER_ENDPOINT = "https://pixe.la/v1/users"
 
 pixela_user_param = {
     "token": os.environ["PIXELA_TOKEN"],
-    "username": "meowya",
+    "username": "grandeurkoe",
     "agreeTermsOfService": "yes",
     "notMinor": "yes",
 }
 
 # Creates a Pixela User Account.
+# My Pixela User Account - https://pixe.la/@grandeurkoe
 # pixela_response = requests.post(url=PIXELA_USER_ENDPOINT, json=pixela_user_param)
 # print(pixela_response.text)
 
@@ -37,37 +38,37 @@ headers = {
 # pixela_graph_response = requests.post(url=PIXELA_GRAPH_ENDPOINT, json=pixela_graph_param, headers=headers)
 # print(pixela_graph_response.text)
 
-# After compiling the above code go to https://pixe.la/v1/users/meowya/graphs/graph1.html
+# After compiling the above code go to https://pixe.la/v1/users/grandeurkoe/graphs/graph1.html
 
 # Post a pixel on Graph.
 PIXELA_PIXEL_ENDPOINT = f"https://pixe.la/v1/users/{pixela_user_param['username']}/graphs/{pixela_graph_param['id']}"
-
-pixela_pixel_param = {
-    # This will format the date from YYYY-MM-DD to YYYYMMDD
-    "date": date_today.strftime("%Y%m%d"),
-    "quantity": input("How much did you cycle today? "),
-}
-
-pixela_pixel_response = requests.post(url=PIXELA_PIXEL_ENDPOINT, json=pixela_pixel_param, headers=headers)
-print(pixela_pixel_response.text)
+#
+# pixela_pixel_param = {
+#     # This will format the date from YYYY-MM-DD to YYYYMMDD
+#     "date": date_today.strftime("%Y%m%d"),
+#     "quantity": input("How much did you cycle today? "),
+# }
+#
+# pixela_pixel_response = requests.post(url=PIXELA_PIXEL_ENDPOINT, json=pixela_pixel_param, headers=headers)
+# print(pixela_pixel_response.text)
 
 # Update a pixel on Graph.
-update_date_pixel = datetime(year=2023, month=9, day=5)
-
-PIXELA_UPDATE_ENDPOINT = f"{PIXELA_PIXEL_ENDPOINT}/{update_date_pixel.strftime('%Y%m%d')}"
-
-pixela_update_param = {
-    "quantity": "1",
-}
-
+# update_date_pixel = datetime(year=2023, month=10, day=24)
+#
+# PIXELA_UPDATE_ENDPOINT = f"{PIXELA_PIXEL_ENDPOINT}/{update_date_pixel.strftime('%Y%m%d')}"
+#
+# pixela_update_param = {
+#     "quantity": "1",
+# }
+#
 # pixela_update_pixel_response = requests.put(url=PIXELA_UPDATE_ENDPOINT, json=pixela_update_param, headers=headers)
 # print(pixela_update_pixel_response.text)
 
 # Delete a pixel on Graph.
-delete_date_pixel = datetime(year=2023, month=9, day=7)
-
-PIXELA_DELETE_ENDPOINT = f"{PIXELA_PIXEL_ENDPOINT}/{delete_date_pixel.strftime('%Y%m%d')}"
-
+# delete_date_pixel = datetime(year=2023, month=10, day=24)
+# 
+# PIXELA_DELETE_ENDPOINT = f"{PIXELA_PIXEL_ENDPOINT}/{delete_date_pixel.strftime('%Y%m%d')}"
+# 
 # pixela_delete_pixel_response = requests.delete(url=PIXELA_DELETE_ENDPOINT, headers=headers)
 # print(pixela_delete_pixel_response.text)
 
