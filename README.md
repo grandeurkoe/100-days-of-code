@@ -42,7 +42,7 @@ Each project has been built from scratch with minimal to no assistance.<br/><br/
 |**031**| ***Flash Card App***| _GUI Desktop App_| [Github Link](day-031-flash-card-app-capstone-project/flash-card-app-capstone-project)|
 |**032**| ***Automated Birthday Wisher***| _Python Scripting_| [Github Link](day-032-send-email-and-manage-dates/automated-birthday-wisher)|
 |**033**| ***Kanye Quotes App***| _HTTP Requests and APIs_| [Github Link](day-031-flash-card-app-capstone-project/flash-card-app-capstone-project)|
-|**034**| ***GUI Quiz App***| _HTTP Requests and APIs_| [Github Link](day-034-creating-a-gui-quiz-app/quizzler-app)|
+|**034**| ***Quizzler App***| _HTTP Requests and APIs_| [Github Link](day-034-creating-a-gui-quiz-app/quizzler-app)|
 |**035**| ***Rain Alert***| _HTTP Requests and APIs_| [Github Link](day-035-sms-keys-authentication-and-env/rain-alert)|
 |**036**| ***Stock Trading News Alert***| _HTTP Requests and APIs_| [Github Link](dday-036-stock-trading-news-alert-project/stock-trading-news-alert)|
 |**037**| ***Habit Tracker***| _HTTP Requests and APIs_| [Github Link](day-037-advanced-authentication-and-post-put-delete-requests/habit-tracker)|
