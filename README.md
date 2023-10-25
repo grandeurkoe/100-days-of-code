@@ -66,7 +66,7 @@ Each project has been built from scratch with minimal to no assistance.<br/><br/
 |**055**| ***Higher or Lower URLs***| _Flask Web Development_| [Github Link](day-055-html-and-url-parsing-in-flask-and-the-higher-lower-game)|
 |**056**| ***Name Card***| _Flask Web Development_| [Github Link](day-056-rendering-static-files-and-using-website-templates/name-card)|
 |**057**| ***Blog (Version 1)***| _Flask Web Development_| [Github Link](day-057-templating-with-jinja-in-flask-application/blog)|
-|**058**| ***Tin Dog***| _Flask Web Development_| [Github Link](day-058-bootstrap-framework/tin-dog)|
+|**058**| ***Tin Dog***| _Web Development_| [Github Link](day-058-bootstrap-framework/tin-dog)|
 |**059**| ***Blog (Version 2)***| _Flask Web Development_| [Github Link](day-059-building-a-better-blog-using-bootstrap/better-blog)|
 |**060**| ***Blog (Version 3)***| _Flask Web Development_| [Github Link](day-060-make-post-requests-with-flask-and-html-forms/better-blog)|
 |**061**| ***Flask Secrets***| _Flask Web Development_| [Github Link](day-061-building-advanced-forms-with-flask-wtforms/flask-secrets)|
