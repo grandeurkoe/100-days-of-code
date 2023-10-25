@@ -1,4 +1,4 @@
-# 100 Days of Code - The Complete Python Pro Bootcamp
+# 100 Days of Code
 
  <img align="right" alt="Days Completed" src="https://img.shields.io/badge/Day%20📅-81-blue" />
 <br/>
