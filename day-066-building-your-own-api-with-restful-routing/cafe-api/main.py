@@ -49,8 +49,8 @@ class Cafe(db.Model):
         return dictionary
 
 
-# with app.app_context():
-#     db.create_all()
+with app.app_context():
+    db.create_all()
 
 
 @app.route("/")
@@ -135,7 +135,7 @@ def update_cafe_price(cafe_id):
 
 
 # HTTP DELETE - Delete Record
-@app.route("/report-closed/<cafe_id>")
+@app.route("/report-closed/<cafe_id>", methods=["DELETE"])
 def delete_cafe(cafe_id):
     """Delete cafe data by ID. Return result as JSON."""
     with app.app_context():
