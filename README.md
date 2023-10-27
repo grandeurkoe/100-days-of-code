@@ -1,14 +1,15 @@
 # 100 Days of Code - The Complete Python Pro Bootcamp
 
  <img align="right" alt="Days Completed" src="https://img.shields.io/badge/Day%20📅-81-blue" />
-<br/><br/>
+<br/>
 
 Build 1 unique real-world Python project every day for the next 100 days.
 
-Projects are of increasing difficulty as we iteratively move from day 1 to day 100. These projects are built in correspondence with "[100 Days of Code - The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)" course. This course was taught by London's App Brewery top instructor Angela Yang.<br/><br/>
-Each project has been built from scratch with minimal to no assistance.<br/><br/>
+Projects are of increasing difficulty as we iteratively move from day 1 to day 100. These projects are built in correspondence with "[100 Days of Code - The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)" course. This course was taught by London's App Brewery top instructor Angela Yang.<br/>
 
-**What I'll learn**
+Each project has been built from scratch with minimal to no assistance.<br/>
+
+**Learn / Build / Use**
 - Build 1 unique real-world Python project every day for the next 100 days.
 - Learn automation, game, app and web development, data science and machine learning all using Python.
 - Learn Selenium, Beautiful Soup, Request, Flask, Pandas, NumPy, Scikit Learn, Plotly, and Matplotlib.
