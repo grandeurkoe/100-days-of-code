@@ -1,12 +1,62 @@
 # 100 Days of Code - The Complete Python Pro Bootcamp
 
  <img align="right" alt="Days Completed" src="https://img.shields.io/badge/Day%20📅-81-blue" />
-<br/>
+<br/><br/>
 
-Build 1 real-world Python project every day for the next 100 days. <br/><br/>
-Projects are of increasing difficulty as we iteratively move from day 1 to day 100. These projects are built in correspondence with [100 Days of Code - The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/) course. This course was taught by London's App Brewery top instructor Angela Yang.<br/><br/>
+Build 1 unique real-world Python project every day for the next 100 days.
+
+Projects are of increasing difficulty as we iteratively move from day 1 to day 100. These projects are built in correspondence with "[100 Days of Code - The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)" course. This course was taught by London's App Brewery top instructor Angela Yang.<br/><br/>
 Each project has been built from scratch with minimal to no assistance.<br/><br/>
 
+**What I'll learn**
+- Build 1 unique real-world Python project every day for the next 100 days.
+- Learn automation, game, app and web development, data science and machine learning all using Python.
+- Learn Selenium, Beautiful Soup, Request, Flask, Pandas, NumPy, Scikit Learn, Plotly, and Matplotlib.
+-  Build fully fledged websites and web apps with Python.
+-  Use Python for data science and machine learning.
+-  Build games like Blackjack, Pong and Snake using Python.
+-  Build GUIs and Desktop applications with Python.
+-  Learn how to use PyCharm, Jupyter Notebooks and Google Colab.
+
+**Cover a massive amount of tools and technologies, including:**
+- Python 3 - the latest version of Python
+- PyCharm, Jupyter Notebook, Google Colab
+- Python Scripting and Automation
+- Python Game Development
+- Web Scraping
+- Beautiful Soup
+- Selenium Web Driver
+- Request
+- WTForms
+- Data Science
+- Pandas
+- NumPy
+- Matplotlib
+- Plotly
+- Scikit learn
+- Seaborn
+- Turtle
+- Python GUI Desktop App Development
+- Tkinter
+- Front-End Web Development
+- HTML 5
+- CSS 3
+- Bootstrap 4
+- Bash Command Line
+- Git, GitHub and Version Control
+- Backend Web Development
+- Flask
+- REST
+- APIs
+- Databases
+- SQL
+- SQLite
+- PostgreSQL
+- Authentication
+- Web Design
+- Deployment with GitHub Pages, Heroku and Gunicorn
+- and much much more!
+  
 <div align="center">
 
 | Day | Project Name | Project Type | Project Link  |
