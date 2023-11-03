@@ -1,6 +1,6 @@
 # 100 Days of Code - The Complete Python Pro Bootcamp
 
- <img align="right" alt="Days Completed" src="https://img.shields.io/badge/Day%20📅-81-blue" />
+ <img align="right" alt="Days Completed" src="https://img.shields.io/badge/Day%20📅-83-blue" />
 <br/>
 
 Build 1 unique real-world Python project every day for the next 100 days.
