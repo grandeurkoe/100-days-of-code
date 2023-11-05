@@ -70,7 +70,7 @@ Each project has been built from scratch with minimal to no assistance.<br/>
 |**048 - 053**| _Automation_|[Repository Link](https://github.com/grandeurkoe/python-automation-projects/tree/c7684c1fa0f4c12d7c293a510b31fc653ec7edbc)|
 |**054 - 057, 059 - 064, 066 - 069, 071**| _Flask Web Development_|[Repository Link](https://github.com/grandeurkoe/python-flask-web-development-projects/tree/9d47ddae4e48cd23f3f282d4cb885e7834b1f97d)|
 |**070**|_Github Workflow_| [Project Link](day-070-git-github-and-version-control/git-test)|
-|**072 - 081**|_Data Science_|[Repository Link]()|
+|**072 - 081**|_Data Science_|[Repository Link](https://github.com/grandeurkoe/python-data-science-projects)|
 
 </div>
 
